@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ytrg62.llmo.me/sitemap.xml
